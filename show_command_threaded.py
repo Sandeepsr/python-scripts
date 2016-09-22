@@ -3,7 +3,7 @@
         Date: 9/22/2016
         Tested on Python 2.7
         Sample Usage:
-        $ python show_cmd_threaded.py --cmdfile cmd_file.txt --devicefile device_file.txt"""
+        $ python show_command_threaded.py --cmdfile cmd_file.txt --devicefile device_file.txt"""
 
 
 #Import modules
